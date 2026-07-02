@@ -29,8 +29,8 @@
 
 | 🤖 Machine Learning & AI | Stars | Tech |
 | --- | --- | --- |
-| [**NeuralShield** — Adversarial Attack Detection on Medical Images](https://github.com/SANKETHEGADE/ML-model-for-Adversarial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversarial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) |
-| [**MediScan AI** — Multi-Disease Diagnosis (Chest, Brain, Skin)](https://github.com/SANKETHEGADE/ML-model-for-Adversarial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversarial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-orange?style=flat-square) |
+| [**NeuralShield** — Adversarial Attack Detection on Medical Images](https://github.com/SANKETHEGADE/ML-model-for-Adversial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) |
+| [**MediScan AI** — Multi-Disease Diagnosis (Chest, Brain, Skin)](https://github.com/SANKETHEGADE/ML-model-for-Adversial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-orange?style=flat-square) |
 | [**Loan Prediction** — ML Model with Flask Web App](https://github.com/SANKETHEGADE/ML-model-for-Loan-Prediction) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Loan-Prediction?style=flat-square&labelColor=black&color=A855F7) | ![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) |
 
 | 🎯 AI + Full Stack | Stars | Tech |
@@ -81,11 +81,3 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SANKETHEGADE&theme=dracula&hide_border=true&background=0d0d0d&stroke=A855F7&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7)](https://git.io/streak-stats)
-
----
-
-### 📈 Stats
-
-[![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANKETHEGADE&theme=dracula&show_icons=true)](https://github.com/SANKETHEGADE)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKETHEGADE&theme=dracula&layout=compact)](https://github.com/SANKETHEGADE)
