@@ -39,6 +39,7 @@
 
 | 🌐 Web Projects | Stars | Tech |
 | --- | --- | --- |
+| [**Soma Health** — AI Personal Health Dashboard](https://github.com/SANKETHEGADE/soma-health) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/soma-health?style=flat-square&labelColor=black&color=A855F7) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white) |
 | [**GameFusion** — Gaming Platform with Real-time Chat](https://github.com/SANKETHEGADE/Game-fusion) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/Game-fusion?style=flat-square&labelColor=black&color=A855F7) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
