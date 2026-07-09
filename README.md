@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 -  B.E. Computer Science & Engineering @ **M.V.J. College of Engineering, Bangalore** (VTU) — 2023–2027 | CGPA: **8.5**
 -  Building AI systems focused on **medical imaging**, **adversarial robustness**, and **interview integrity**
