@@ -45,7 +45,7 @@
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 **Languages**
 
