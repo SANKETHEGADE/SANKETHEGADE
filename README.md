@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A855F7&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Sanket+Hegade+👋;ML+Engineer+%7C+AI+Researcher+%7C+Full+Stack;Building+real-world+AI+systems+)](https://github.com/SANKETHEGADE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A855F7&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Sanket+Hegade+👋;ML+Engineer+%7C+AI%7C+Full+Stack;Building+real-world+AI+systems+)](https://github.com/SANKETHEGADE)
 
 <p align="left">
   <a href="https://in.linkedin.com/in/sanket-hegade-8b3a64303">
