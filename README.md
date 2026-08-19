@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A855F7&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Sanket+Hegade+👋;ML+Engineer+%7C+AI+Researcher+%7C+Full+Stack;Building+real-world+AI+systems+🚀)](https://github.com/SANKETHEGADE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=A855F7&multiline=true&width=600&height=100&lines=Hi+there%2C+I'm+Sanket+Hegade+👋;ML+Engineer+%7C+AI+Researcher+%7C+Full+Stack;Building+real-world+AI+systems+)](https://github.com/SANKETHEGADE)
 
 <p align="left">
   <a href="https://in.linkedin.com/in/sanket-hegade-8b3a64303">
@@ -15,38 +15,38 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 B.E. Computer Science & Engineering @ **M.V.J. College of Engineering, Bangalore** (VTU) — 2023–2027 | CGPA: **8.5**
-- 🧠 Building AI systems in **medical imaging**, **adversarial robustness**, **RAG**, and **blockchain healthcare**
-- 🔬 Recent projects: **MediChain AI** (blockchain + disease detection), **DocuMind AI** (RAG), **Interview Integrity AI** (proctoring)
-- 🏆 1st place chess (300 participants) &nbsp;|&nbsp; 2nd place district-level public speaking &nbsp;|&nbsp; Smart India Hackathon
-- 💡 Open to collaborating on ML, computer vision, and full-stack AI projects
+-  B.E. Computer Science & Engineering @ **M.V.J. College of Engineering, Bangalore** (VTU) — 2023–2027 | CGPA: **8.5**
+-  Building AI systems in **medical imaging**, **adversarial robustness**, **RAG**, and **blockchain healthcare**
+-  Recent projects: **MediChain AI** (blockchain + disease detection), **DocuMind AI** (RAG), **Interview Integrity AI** (proctoring)
+-  1st place chess (300 participants) &nbsp;|&nbsp; 2nd place district-level public speaking &nbsp;|&nbsp; Smart India Hackathon
+-  Open to collaborating on ML, computer vision, and full-stack AI projects
 
 ---
 
-### 🖥️ Projects
+###  Projects
 
-| 🤖 Machine Learning & AI | Stars | Tech |
+|  Machine Learning & AI | Stars | Tech |
 | --- | --- | --- |
 | [**MediChain AI** — Blockchain Healthcare + Multi-modal Disease Detection](https://github.com/SANKETHEGADE/medichain) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/medichain-ai?style=flat-square&labelColor=black&color=A855F7) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121212?style=flat-square) |
 | [**NeuralShield** — Adversarial Attack Detection on Medical Images](https://github.com/SANKETHEGADE/ML-model-for-Adversial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) |
 | [**MediScan AI** — Multi-Disease Diagnosis (Chest, Brain, Skin)](https://github.com/SANKETHEGADE/ML-model-for-Adversial-attack-detection) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Adversial-attack-detection?style=flat-square&labelColor=black&color=A855F7) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-orange?style=flat-square) |
 | [**Loan Prediction** — ML Model with Flask Web App](https://github.com/SANKETHEGADE/ML-model-for-Loan-Prediction) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/ML-model-for-Loan-Prediction?style=flat-square&labelColor=black&color=A855F7) | ![sklearn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask) |
 
-| 🎯 AI + Full Stack | Stars | Tech |
+|  AI + Full Stack | Stars | Tech |
 | --- | --- | --- |
 | [**DocuMind AI** — RAG Document Intelligence System](https://github.com/SANKETHEGADE/documind-ai) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/documind-ai?style=flat-square&labelColor=black&color=A855F7) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white) |
 | [**Interview Integrity AI** — Real-time Plagiarism + Gaze Tracking](https://github.com/SANKETHEGADE/Interview-Integrity) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/Interview-Integrity?style=flat-square&labelColor=black&color=A855F7) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TensorFlow](https://img.shields.io/badge/-TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white) |
 
-| 🌐 Web Projects | Stars | Tech |
+|  Web Projects | Stars | Tech |
 | --- | --- | --- |
 | [**Soma Health** — AI Personal Health Dashboard with 3D Body Scanner](https://github.com/SANKETHEGADE/soma-health) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/soma-health?style=flat-square&labelColor=black&color=A855F7) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white) |
 | [**GameFusion** — Gaming Platform with Real-time Chat](https://github.com/SANKETHEGADE/Game-fusion) | ![Stars](https://img.shields.io/github/stars/SANKETHEGADE/Game-fusion?style=flat-square&labelColor=black&color=A855F7) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 **Languages**
 
